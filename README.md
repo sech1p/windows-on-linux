@@ -13,6 +13,8 @@ I also use this software on Linux, I can guarantee that it works as expected (or
 - **Graphics card**: [MSI GeForce GTX 1050 Ti GAMING](https://www.msi.com/Graphics-Card/GeForce-GTX-1050-Ti-GAMING-X-4G/support) (4 GB)
 - **Graphics card driver**: [NVidia](https://www.nvidia.com) [560.35.03](https://www.nvidia.com/en-us/drivers/details/230918/) (proprietary)
 
+Maybe you want to see rest of my specifications? It's available in my [dotfiles](https://github.com/sech1p/dotfiles) repository.
+
 ## 📔 Guides
 
 - [🎵 Ableton Live](Ableton/)
