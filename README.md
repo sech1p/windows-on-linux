@@ -4,6 +4,14 @@ This repository contains various guides on how to install Windows(-only) softwar
 
 I also use this software on Linux, I can guarantee that it works as expected (or almost, depending on the software).
 
+## ⚠️ Notice
+
+This repository is no longer maintained as I switched to Windows 11. However, my guides are up-to-date and they still working.
+
+Right now I use Ableton Live 12 (with jBridge for 32-bit legacy plugins support) and Photoshop 2025. But in nearly future I will do Photoshop 2025 install tutorial on Linux for sure.
+
+My journey with daily driving Linux it's finished.
+
 ## 🖥️ My specification
 
 - **Kernel**: [Linux](https://kernel.org) [6.11.2](https://cdn.kernel.org/pub/linux/kernel/v6.x/ChangeLog-6.11.2)-arch1-1
